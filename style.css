@@ -1,4 +1,8 @@
 header {
-    background-color: rgb(243, 184, 106);
+    background-color: rgb(104, 96, 209);
     color: #fdf8f8;
+}
+
+.cabecalho-imagem{
+    width: 70%;
 }

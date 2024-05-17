@@ -6,6 +6,28 @@ header {
 .cabecalho-imagem{
     width: 35%;
 }
+.loja-imagem{
+    width: 25%;
+}
+.loja-div-conteudo{
+    width: 35%;
+}
+.loja-titulo{
+    padding: 24px 0;
+}
+
+
+
+.loja{
+    background-image: linear-gradient(#383474, #c4b1b181);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+
 
 .cabecalho {
     background-color: #383474;

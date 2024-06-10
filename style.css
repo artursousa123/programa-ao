@@ -5,6 +5,9 @@ header {
 
 .cabecalho-imagem{
     width: 35%;
+}   
+.pessoa{
+    width: 100px;
 }
 .loja-imagem{
     width: 25%;
@@ -49,4 +52,5 @@ body{font-family: "Oswald", sans-serif;}
     margin: 0;
     padding: 0;
 }
+
 

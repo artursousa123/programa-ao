@@ -5,7 +5,11 @@ header {
 
 .cabecalho-imagem{
     width: 35%;
-}   
+}
+.estudante-titulo{
+    text-align: center;
+    padding: 24px 0;
+}
 .pessoa{
     width: 100px;
 }
